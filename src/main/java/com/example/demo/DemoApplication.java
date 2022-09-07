@@ -11,7 +11,7 @@ public class DemoApplication {
 	}
 
   public void testJob(){
-		System.out.println("Hi with Job 3 Pipe line Prfoject");
+		System.out.println("Hi with Job 3 Pipe");
   }
 
 
