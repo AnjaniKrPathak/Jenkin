@@ -10,7 +10,9 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
-
+  public void testJob(){
+		System.out.println("Hi");
+  }
 
 
 
