@@ -10,9 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
-public void m(){
-		System.out.println("Hi");
-		System.out.println("Git Pull");
-}
+
+
 
 }
