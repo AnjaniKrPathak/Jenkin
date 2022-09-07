@@ -12,7 +12,7 @@ public class DemoApplication {
 
 public void m(){
 		System.out.println("Hi");
-		System.out.println("Hello");
+		System.out.println("Git hub poll");
 }
 
 }
