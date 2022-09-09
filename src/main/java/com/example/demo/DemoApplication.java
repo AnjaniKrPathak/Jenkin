@@ -11,7 +11,7 @@ public class DemoApplication {
 	}
 
   public void testJob(){
-		System.out.println("Hi with Job Loclahso ");
+		System.out.println("Updated Message after jenkin ");
   }
 
 
